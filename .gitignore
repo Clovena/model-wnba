@@ -1,0 +1,8 @@
+# Local development files
+TASKS.md
+
+# Virtual environment files
+dbt-env/
+
+# dbt configuration files
+.dbt/
