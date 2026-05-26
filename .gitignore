@@ -1,8 +1,14 @@
 # Local development files
 TASKS.md
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
 # Virtual environment files
 dbt-env/
 
 # dbt configuration files
 .dbt/
+dbt.log
