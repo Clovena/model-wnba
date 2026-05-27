@@ -12,3 +12,6 @@ dbt-env/
 # dbt configuration files
 .dbt/
 dbt.log
+
+# duckdb files
+*.duckdb
