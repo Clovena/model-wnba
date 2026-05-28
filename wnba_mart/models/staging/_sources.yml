@@ -1,0 +1,9 @@
+version: 1
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: games
+      - name: game_links
+      - name: competitions
