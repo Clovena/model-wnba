@@ -1,5 +1,6 @@
 # Local development files
 TASKS.md
+HANDOFF.md
 
 # Python cache
 __pycache__/
