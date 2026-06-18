@@ -1,5 +1,3 @@
---- TODO: broadcasts[], competitiors[], geoBroadcasts[]
-
 select
 game_id,
 
